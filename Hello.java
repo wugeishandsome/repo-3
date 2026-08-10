@@ -3,6 +3,7 @@ public class Hello{
       System.out.println("你好Hello Word！！！");
       System.out.println("你好git！！！");
       System.out.println("你好tomcat！！！");
+      System.out.println("你好remove！！！");
       System.out.println("你好useradd！！！");
 
   }
